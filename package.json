@@ -1,0 +1,11 @@
+{
+  "name": "analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze.js",
+  "scripts": {
+    "start": "node analyze.js"
+  },
+  "author": "farouk ramy",
+  "license": "ISC"
+}
